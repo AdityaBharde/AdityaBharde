@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Bharde</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityabharde" alt="adityabharde" /></a> </p>
 
-- 🌱 I’m currently learning **Java , Android Develeopment**
+- 🌱 I’m currently pursuing **Graduation in Computer Science and Engineering at RamdeoBaba University, Nagpur**
 
 - 👨‍💻 All of my projects are available at [https://adityabharde.github.io/portfolio/](https://adityabharde.github.io/portfolio/)
 
