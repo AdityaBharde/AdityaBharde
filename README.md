@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aditya Bharde</h1>
+<h1 align="center">Welcome to my GitHub 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&lines=Hey+there!+I'm+Aditya+Bharde+👨‍💻;" alt="Typing SVG" />
+</p>
+<br><br>
 
 - 🌱 I’m currently pursuing **B.Tech in Computer Science and Engineering** at **RamdeoBaba College, Nagpur**
 - 👨‍💻 Check out all my projects at: [adityabharde.github.io/portfolio](https://adityabharde.github.io/portfolio/)
