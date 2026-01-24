@@ -6,7 +6,7 @@
 <br><br>
 
 - 🌱 I’m currently pursuing **B.Tech in Computer Science and Engineering** at **RamdeoBaba College, Nagpur**
-- 👨‍💻 Check out all my projects at: [adityabharde.github.io/portfolio](https://adityabharde.github.io/portfolio/)
+- 👨‍💻 Check out all my projects at: [adityabharde.github.io/portfolio](https://adityabharde-portfolio.vercel.app/)
 - 📫 Reach me at: **adityabharde05@gmail.com**
 
 ---
